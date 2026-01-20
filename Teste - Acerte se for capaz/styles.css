@@ -1,0 +1,77 @@
+#imagens {
+    height: 250px;
+    width: 350px;
+    margin-left: 125px;
+}
+
+#pontos{
+    margin-left: 150px;
+}
+
+#erros{
+    margin-left: 50px;
+}
+
+#acertos{
+    margin-left: 50px;
+}
+
+#estrutura {
+    border: 2px solid black;
+    height: 700px;
+    width: 600px;
+    margin-left: 250px;
+}
+
+#mensagem {
+    margin-left: 150px;
+    margin-top: 5px;
+}
+
+#perguntas {
+    border: 2px solid black;
+    height: 50px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+#alternativa1 {
+    border: 2px solid black;
+    height: 35px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 15px;
+    background-color: yellow;
+}
+
+#alternativa2 {
+    border: 2px solid black;
+    height: 35px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 15px;
+    background-color: darkturquoise;
+}
+
+#alternativa3 {
+    border: 2px solid black;
+    height: 35px;
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 15px;
+    background-color: dodgerblue;
+    margin-bottom: 15px;
+}
+
+#acerte {
+    margin-left: 150px;
+}
+
+#estatisticas {
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+}
